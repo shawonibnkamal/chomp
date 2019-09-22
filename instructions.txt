@@ -1,0 +1,15 @@
+How to run from a shell window:
+
+Open console (terminal, command.exe, whatever)
+
+Navigate to inside the Chomp Game folder
+
+Compile the code:
+
+javac firstPackage/*.java
+
+Run the code:
+
+java firstPackage/Driver
+
+Don't forget, if you edit the code then recompile it before running.
